@@ -1,0 +1,37 @@
+body{
+	text-align: center;
+}
+.calc-col{
+	display: inline-block;
+}
+.display{
+  width: 240px;
+  height: 40px;
+  padding-top: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  background-color: #7a5a9a;
+  text-align: center;
+  margin:0 auto;
+  color: white;
+}
+.digit {
+  color: #FBFBEF;
+  font-size: 130%;
+  padding: 15px 0px 15px 015px
+}
+
+.button {
+  background-color: #7a5a9a;
+  border-radius: 30px;
+  text-align: center;
+  border: 1px solid #939393;
+  padding: 5px;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+#page-wrap{
+	width: 800px;
+	margin:0 auto;
+}
